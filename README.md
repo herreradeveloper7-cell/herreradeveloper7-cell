@@ -27,6 +27,33 @@ Shopify • Liquid • Klaviyo
 
 ## Featured Projects
 
+### 📦 Wolfbox JAES
+Business management platform developed for JAES Cargo to support logistics and operational workflows.
+
+**My role:** Full-Stack Development • Backend • Database • Deployment  
+**Tech:** TypeScript • Node.js • SQL Server • Docker • Linux
+
+[View Repository](https://github.com/herreradeveloper7-cell/wolfbox-jaes)
+
+---
+
+### 🛍️ ByEzenti
+Shopify e-commerce storefront developed for the ByEzenti clothing brand, including custom storefront components and integrations.
+
+**My role:** Shopify Development • Liquid Customization • E-commerce Integrations  
+**Tech:** Shopify • Liquid • JavaScript • Klaviyo
+
+[View Repository](https://github.com/herreradeveloper7-cell/ezenti-page) · [Live Website](https://byezenti.com/)
+
+---
+
+### ✈️ JAES Cargo
+Corporate website developed for JAES Cargo Internacional, focused on performance, responsive design and the company's digital presence.
+
+**My role:** Web Development • Frontend • Deployment  
+**Tech:** Astro • JavaScript • HTML • CSS
+
+[View Repository](https://github.com/herreradeveloper7-cell/jaescargo-page) · [Live Website](https://jaescargo.com/)
 ## Let's connect
 
 I'm open to remote Software Developer opportunities and collaborations.
