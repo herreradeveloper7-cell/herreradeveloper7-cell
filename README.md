@@ -1,16 +1,41 @@
-## Hi there 👋
+# Steeven Herrera 👋
 
-<!--
-**herreradeveloper7-cell/herreradeveloper7-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Software Developer focused on Backend & Full-Stack development.
+- 🏢 Co-founder and developer at Bonart Creative, building digital solutions for real clients.
+- ⚙️ I build backend systems, REST APIs, business platforms and web applications.
+- 🧠 My main stack includes Node.js, NestJS, TypeScript, PostgreSQL and React.
+- 🐳 I work with Docker, Linux servers and production deployments.
+- 🛍️ I also have experience developing and customizing Shopify stores with Liquid.
+- 🚀 Interested in scalable backend architecture, SaaS products and business software.
 
-Here are some ideas to get you started:
+Some of my featured work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📦 **Wolfbox JAES:** Business platform developed for logistics and operational management.
+- 🏍️ **Moto Platform:** Backend architecture for a ride-hailing platform built with NestJS, PostgreSQL and Docker.
+- 🛍️ **ByEzenti:** Shopify storefront development with custom Liquid components and e-commerce integrations.
+- ✈️ **JAES Cargo:** Corporate web platform built with Astro and optimized for performance.
+
+## Tech Stack
+
+Backend
+Node.js • NestJS • TypeScript • REST APIs
+
+Frontend
+React • Astro • HTML • CSS • JavaScript
+
+Databases
+PostgreSQL • SQL Server
+
+DevOps & Tools
+Docker • Linux • Git • GitHub
+
+E-commerce
+Shopify • Liquid • Klaviyo
+
+## Featured Projects
+
+## Let's connect
+
+I'm open to remote Software Developer opportunities and collaborations.
+
+LinkedIn • Portfolio • Email
