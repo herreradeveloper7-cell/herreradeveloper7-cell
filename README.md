@@ -54,8 +54,9 @@ Corporate website developed for JAES Cargo Internacional, focused on performance
 **Tech:** Astro • JavaScript • HTML • CSS
 
 [View Repository](https://github.com/herreradeveloper7-cell/jaescargo-page) · [Live Website](https://jaescargo.com/)
-## Let's connect
+
+## Let's Connect
 
 I'm open to remote Software Developer opportunities and collaborations.
 
-LinkedIn • Portfolio • Email
+[LinkedIn](http://www.linkedin.com/in/developer-herrera-623136438) • [Portfolio](https://bonartcreative.com) • [Email](mailto:herreradeveloper7@gmail.com)
