@@ -8,12 +8,6 @@
 - 🛍️ I also have experience developing and customizing Shopify stores with Liquid.
 - 🚀 Interested in scalable backend architecture, SaaS products and business software.
 
-Some of my featured work:
-
-- 📦 **Wolfbox JAES:** Business platform developed for logistics and operational management.
-- 🛍️ **ByEzenti:** Shopify storefront development with custom Liquid components and e-commerce integrations.
-- ✈️ **JAES Cargo:** Corporate web platform built with Astro and optimized for performance.
-
 ## Tech Stack
 
 Backend
