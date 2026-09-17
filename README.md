@@ -11,7 +11,6 @@
 Some of my featured work:
 
 - 📦 **Wolfbox JAES:** Business platform developed for logistics and operational management.
-- 🏍️ **Moto Platform:** Backend architecture for a ride-hailing platform built with NestJS, PostgreSQL and Docker.
 - 🛍️ **ByEzenti:** Shopify storefront development with custom Liquid components and e-commerce integrations.
 - ✈️ **JAES Cargo:** Corporate web platform built with Astro and optimized for performance.
 
